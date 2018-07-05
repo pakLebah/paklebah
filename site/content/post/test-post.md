@@ -8,3 +8,10 @@ description: >-
 image: /img/about-direct-sourcing.jpg
 ---
 jkldjfiowjkld klfsjiowjfklsdj fauhf ksn fa;ujlsakjf dsk fjoawfjlksdf ae fsd,mb auwhf lweakfn a;oerujaklsdf asfoawej flks fao;eu jlkasjdf a8sef asmfn a8;fj klsaf ake;fa skf asl;eu alsjf aslfiaewl fas,e afos;eif jasdfk naf alc aoi hclas ilaejfcli elkv oiaj vlkasm ilascj lasecm ailc alsecm alecj ilaesk jcals c;
+
+```pascal
+program test;
+begin
+  writeln('test');
+end.
+```
